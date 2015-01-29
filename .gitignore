@@ -28,5 +28,8 @@ bower_components
 # Webstorm
 .idea
 
+# Exclude the result of the gulp build
+build
+
 # Users Environment Variables
 .lock-wscript
